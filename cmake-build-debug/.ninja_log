@@ -1,0 +1,8 @@
+# ninja log v5
+3	703	6877867264116689	CMakeFiles/Lab3.dir/main.cpp.obj	6eae838dc570693
+9	826	6877866617711651	CMakeFiles/Lab3.dir/flatlad.cpp.obj	2bb3d2445a9bb4
+704	911	6877867266097297	Lab3.exe	e0d806c52549d569
+6	951	6877880127384386	CMakeFiles/Lab3.dir/flatlad.cpp.obj	2bb3d2445a9bb4
+13	965	6877880127496238	CMakeFiles/Lab3.dir/main.cpp.obj	6eae838dc570693
+21	1032	6877880128218462	CMakeFiles/Lab3.dir/planet.cpp.obj	eb90792295ddcd09
+1032	1311	6877880130804736	Lab3.exe	dc223cb5f0652cef
